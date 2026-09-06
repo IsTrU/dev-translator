@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dev Translator"
+  short_description: "Turn everyday requests into dev prompts and learn terms"
+  default_prompt: "Use $dev-translator to explain my request in development terms and write a prompt I can copy, responding in my language."
