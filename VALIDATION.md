@@ -2,7 +2,7 @@
 
 Build date: 2026-09-07.
 
-Version 0.1.0 is being prepared for review. No public release has been made.
+Version 0.1.0.
 
 ## Method
 
