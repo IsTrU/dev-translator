@@ -1,3 +1,5 @@
+![Dev Translator demo](dev-translator-readme.gif)
+
 # Dev Translator
 
 You know what you want to change, but you might not know what a developer would call it. Maybe the text feels cramped inside a button, a menu disappears behind another box, or the page looks wrong on your phone. You describe it as best you can, add a screenshot, and hope the coding agent understands.
