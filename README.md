@@ -1,10 +1,7 @@
 # Dev Translator
 
 You know what you want to change, but you might not know what a developer would call it. Maybe the text feels cramped inside a button, a menu disappears behind another box, or the page looks wrong on your phone. You describe it as best you can, add a screenshot, and hope the coding agent understands.
-
 Dev Translator helps with that conversation. It turns your description into a clear development request, explains the terms that fit your situation, and gives you a prompt to copy into your coding agent. You get a better way to ask for the change and a little vocabulary you can use next time.
-
-Version **0.1.0** is ready for private review. There is no public release yet.
 
 ## A quick example
 
@@ -103,9 +100,7 @@ Explicit invocation is the most predictable way to use it. Automatic selection d
 
 The skill prepares your request without changing the project. Review the prompt, then paste it into a coding agent or ask the agent to implement it.
 
-## Testing and feedback
-
-The build includes nine behavioral trials and four routing checks. The owner reported successful live use in Codex. Native Claude Code invocation has not yet been verified end to end. English, Arabic, and Spanish were exercised, with broader language support still to be tested. See [validation notes](VALIDATION.md) for the evidence and limits.
+## Feedback
 
 For feedback, include your request, the response, your agent and model, and what you wanted. Misunderstandings, unnecessary questions, and confusing terms are useful examples. Remove private information before sharing screenshots or project details.
 
