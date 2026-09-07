@@ -52,7 +52,14 @@ Image support depends on whether your agent and model can read the attachment. S
 
 Dev Translator is a skill made of instructions. It needs no API keys, runtime scripts, or separate service. Your coding agent runs it.
 
-From a source copy, open a terminal in the project directory containing this README and the `skills` folder. These commands are for macOS and Linux.
+Download the project using **Code → Download ZIP**, or clone it:
+
+```sh
+git clone https://github.com/IsTrU/dev-translator.git
+cd dev-translator
+```
+
+Open a terminal in the project directory containing this README and the `skills` folder. The installation commands below are for macOS and Linux.
 
 ### Codex
 
